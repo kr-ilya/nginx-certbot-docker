@@ -25,7 +25,7 @@ application.
 
 5. Run the server:
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ## Got questions?
